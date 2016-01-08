@@ -1,0 +1,22 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="false" exportTarget="other" domain="testpooties.github.io" resolutions="1x" timestamp="1452201293625">
+  <folder name="css">
+    <file name="site_global.css" crc="3822195851"/>
+    <file name="index.css" crc="117502527" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index"/>
+    <file name="museutils.js" crc="275725342" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="vmware-bttnnormal.jpg" crc="363980496" ref="index"/>
+    <file name="vmware-bttnrollover.jpg" crc="3924297723" ref="index"/>
+    <file name="mpc-hc-bttnnromal.jpg" crc="4022304629" ref="index"/>
+    <file name="mpc-hc-bttnrollover.jpg" crc="13990625" ref="index"/>
+    <file name="opera2-bttnnormal.jpg" crc="263587228" ref="index"/>
+    <file name="opera2-layer 1.jpg" crc="3768670254" ref="index"/>
+    <file name="steamworkshop_webupload_previewfile_378638464_preview.png" crc="4143082855" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="477304920" seo="true" mt="1452199824894" redirect="true"/>
+</manifest>
